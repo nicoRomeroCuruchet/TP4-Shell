@@ -2,7 +2,7 @@
 
 # SHELL
 
-En src/ej2/shell.c se encuentra el segundo ejercicio que tienen que resolver.
+En src/ej1/shell.c se encuentra el archivo que tienen que modificar para resolver el ejercicio.
 
 Compilan haciendo:
 
